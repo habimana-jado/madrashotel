@@ -37,6 +37,8 @@ html, body {
 	font-family: "Cabin", sans-serif;
 	-webkit-font-smoothing: antialiased;
 	font-smoothing: antialiased;
+	background-color: rgb(236, 227, 218);
+	color: white;
 }
 h1, h2, h3, h4, h5, h6 {
 	margin: 0;
