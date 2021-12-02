@@ -37,8 +37,6 @@ html, body {
 	font-family: "Cabin", sans-serif;
 	-webkit-font-smoothing: antialiased;
 	font-smoothing: antialiased;
-	/* background-color: rgb(236, 227, 218);
-	color: white; */
 }
 h1, h2, h3, h4, h5, h6 {
 	margin: 0;
@@ -327,7 +325,7 @@ ul, ol {
 	text-transform: uppercase;
 	letter-spacing: 2px;
 }
-.menu-item .nav-menu .mainmenu .bk-btn {
+.site-navbar .site-navigation .mainmenu .bk-btn {
 	display: inline-block;
 	font-size: 13px;
 	font-weight: 700;
@@ -405,7 +403,7 @@ ul, ol {
 	display: inline-block;
 }
 .menu-item .nav-menu {
-	/* text-align: right; */
+	text-align: right;
 }
 .menu-item .nav-menu .mainmenu {
 	display: inline-block;
