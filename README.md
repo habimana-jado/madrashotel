@@ -1,3 +1,3 @@
 # madrashotel
 
-A hotel website, designed using hmtl, css and javascript
+A hotel website, designed using html, css and javascript
